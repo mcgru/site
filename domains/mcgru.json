@@ -8,5 +8,6 @@
     },
     "record": {
         "CNAME": "mcgru.is-a.dev"
+        "TXT": "this is mcgru.is-a.dev"
     }
 }
