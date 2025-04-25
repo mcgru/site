@@ -1,4 +1,9 @@
-# site
-test site
+# Future will be helped
+People need assistance from automatization
 
-может, накорябать тут чтото?
+## bash scripts
+## ansible playbooks
+## kubernetes manifests
+## terraform
+
+Use Proxmox on local test servers for tests
